@@ -9,10 +9,10 @@ import sys
 import tarfile
 
 import numpy as np
-from six.moves import urllib
+import urllib.request
 import tensorflow as tf
 import glob
-import scipy.misc
+import scipy.misc 
 import math
 import sys
 
